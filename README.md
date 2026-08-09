@@ -1,16 +1,19 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=180&section=header&text=Hi%20There,%20Himanshi%20Here&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<!--
-**Himanshitweety/Himanshitweety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student focused on Artificial Intelligence and Machine Learning.
+I build and experiment with ML/DL models, and I'm currently going deeper into LLMs and RAG-based systems.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Python, C++
+
+**Machine Learning & AI:** NumPy, Pandas, Scikit-learn, Machine Learning, Deep Learning, LLMs, RAG
+
+**Tools:** Git, GitHub
+
+## Currently exploring
+- Deep learning fundamentals through applied projects
+- Retrieval-Augmented Generation (RAG) and how LLMs are used in real-world systems
+
+## GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=Himanshitweety&theme=default&hide_border=true)
