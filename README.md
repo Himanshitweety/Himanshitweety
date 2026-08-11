@@ -5,11 +5,11 @@ I build and experiment with ML/DL models, and I'm currently going deeper into LL
 
 ## Skills
 
-**Languages:** Python, C++
+**Languages:** Python, C++ 
 
-**Machine Learning & AI:** NumPy, Pandas, Scikit-learn, Machine Learning, Deep Learning, LLMs, RAG
+**Machine Learning & AI:** NumPy, Pandas, Scikit-learn, Machine Learning, Deep Learning, LLMs, RAG 
 
-**Tools:** Git, GitHub
+**Tools:** Git, GitHub , Notion 
 
 ## Currently exploring
 - Deep learning fundamentals through applied projects
