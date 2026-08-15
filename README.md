@@ -14,6 +14,7 @@ I build and experiment with ML/DL models, and I'm currently going deeper into LL
 ## Currently exploring
 - Deep learning fundamentals through applied projects
 - Retrieval-Augmented Generation (RAG) and how LLMs are used in real-world systems
+- also learning how to train ml models
 
 ## GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Himanshitweety&theme=default&hide_border=true)
